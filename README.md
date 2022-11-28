@@ -21,6 +21,7 @@
      - member_address : 주소
      - member_phone : 연락처
      - member_datetime : 생성시간(입사일)
+     
      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
      
     ### Product
@@ -33,6 +34,7 @@
      - product_price : 제품 가격
      - product_stocks : 제품 수량(재고)
      - prodcut_datetime : 입고일(재입고일)
+     
      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
      
     ### Recode
@@ -47,6 +49,7 @@
      - sell_amount : 판매량
      - recode_datetime : 판매시간
      - recode_type : 판매기록 종류( normal: 정상거래, refund: 환불)
+     
      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Recode.java">Recode.java</a>에 매칭)
   
   ## 기능
