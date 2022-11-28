@@ -21,6 +21,7 @@
       - member_phone : 연락처
       - member_datetime : 생성시간(입사일)
      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
+     
     ### Product
      
      <img src="./readme_images/table_product.png">
@@ -31,6 +32,7 @@
       - product_stocks : 제품 수량(재고)
       - prodcut_datetime : 입고일(재입고일)
      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
+     
     ### Recode
     
      <img src="./readme_images/table_recode.png">
