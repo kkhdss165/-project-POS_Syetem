@@ -57,17 +57,21 @@
     <img src="./readme_images/sell_list.gif">
    
     ### 판매기능 - 제품판매
-    <img src="./readme_images/sell_list.gif">
+    <img src="./readme_images/sell_sell.gif">
+    
+    ### 판매기능 - 기록조회
+    <img src="./readme_images/sell_recode.gif">   
     
     ### 판매기능 - 제품환불
     <img src="./readme_images/sell_refund.gif">
     
-    ### 판매기능 - 기록조회
-    <img src="./readme_images/sell_recode.gif">
 
    
    ## 재고관리기능
-   
+   <img src="./readme_images/rolldiff_stock.gif">
+   - 계정직위에 따라 기능접근권한 차등
+
+
     ### 재고관리기능 - 재고목록(홈)
     <img src="./readme_images/stock_list.gif">
    
@@ -85,6 +89,9 @@
     
    
    ## 계정관리기능
+   <img src="./readme_images/rolldiff_member.gif">
+   - 계정직위에 따라 기능접근권한 차등
+   
    
     ### 계정관리기능 - 계정정보수정(홈)
     <img src="./readme_images/member_edit.gif">
