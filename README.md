@@ -10,7 +10,7 @@
   ## 객체
     - 시스템의 CRUD를 위한 객체 (데이터베이스 테이블과 그에 매칭되는 자바 클래스)
     
-    ### Member
+    ### Member (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
     
      <img src="./readme_images/table_member.png">
      
@@ -22,9 +22,7 @@
      - member_phone : 연락처
      - member_datetime : 생성시간(입사일)
      
-     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
-     
-    ### Product
+    ### Product (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
      
      <img src="./readme_images/table_product.png">
      
@@ -35,9 +33,7 @@
      - product_stocks : 제품 수량(재고)
      - prodcut_datetime : 입고일(재입고일)
      
-     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
-     
-    ### Recode
+    ### Recode (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Recode.java">Recode.java</a>에 매칭)
     
      <img src="./readme_images/table_recode.png">
      
@@ -49,8 +45,6 @@
      - sell_amount : 판매량
      - recode_datetime : 판매시간
      - recode_type : 판매기록 종류( normal: 정상거래, refund: 환불)
-     
-     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Recode.java">Recode.java</a>에 매칭)
   
   ## 기능
   
