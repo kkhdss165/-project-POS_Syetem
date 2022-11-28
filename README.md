@@ -69,7 +69,8 @@
    
    ## 재고관리기능
    <img src="./readme_images/rolediff_stock.gif">
-   - 계정직위에 따라 기능접근권한 차등
+   
+   - **계정직위에 따라 기능접근권한 차등**
 
 
     ### 재고관리기능 - 재고목록(홈)
@@ -90,7 +91,8 @@
    
    ## 계정관리기능
    <img src="./readme_images/rolediff_member.gif">
-   - 계정직위에 따라 기능접근권한 차등
+   
+   - **계정직위에 따라 기능접근권한 차등**
    
    
     ### 계정관리기능 - 계정정보수정(홈)
@@ -101,6 +103,37 @@
     
     ### 재고관리기능 - 계정삭제
     <img src="./readme_images/member_delete.gif">
+    
+    
+   ## 통계기능
+   
+    ### 통계기능 - 통계메인(홈)
+    <img src="./readme_images/stat_main.gif">
+   
+    ### 통계기능 - 시간별통계
+    
+     #### 연간
+     <img src="./readme_images/state_year.jpg">
+     
+     #### 월간
+     <img src="./readme_images/state_month.jpg">
+     
+     #### 주간
+     <img src="./readme_images/state_week.jpg">
+     
+     #### 일간
+     <img src="./readme_images/state_day.jpg">
+    
+    
+    ### 통계기능 - 수치적통계
+    
+     #### 판매량순
+     <img src="./readme_images/stat_quantity.jpg">
+     
+     #### 판매액순
+     <img src="./readme_images/stat_total.jpg">
+    
+
     
   
 ## <개발환경>
