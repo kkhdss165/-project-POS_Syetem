@@ -46,7 +46,55 @@
      - recode_datetime : 판매시간
      - recode_type : 판매기록 종류( normal: 정상거래, refund: 환불)
   
-  ## 기능
+  # 기능
+    <img src="./readme_images/login.gif">
+    
+    - POS시스템은 로그인 후 사용 가능
+
+   ## 판매기능
+   
+    ### 판매기능 - 재고목록(홈)
+    <img src="./readme_images/sell_list.gif">
+   
+    ### 판매기능 - 제품판매
+    <img src="./readme_images/sell_list.gif">
+    
+    ### 판매기능 - 제품환불
+    <img src="./readme_images/sell_refund.gif">
+    
+    ### 판매기능 - 기록조회
+    <img src="./readme_images/sell_recode.gif">
+
+   
+   ## 재고관리기능
+   
+    ### 재고관리기능 - 재고목록(홈)
+    <img src="./readme_images/stock_list.gif">
+   
+    ### 재고관리기능 - 신규입고
+    <img src="./readme_images/stock_new.gif">
+    
+    ### 재고관리기능 - 재입고
+    <img src="./readme_images/stock_restock.gif">
+    
+    ### 재고관리기능 - 재고수정
+    <img src="./readme_images/stock_edit.gif">
+
+    ### 재고관리기능 - 재고삭제
+    <img src="./readme_images/stock_delete.gif">
+    
+   
+   ## 계정관리기능
+   
+    ### 계정관리기능 - 계정정보수정(홈)
+    <img src="./readme_images/member_edit.gif">
+   
+    ### 계정관리기능 - 계정생성/계정목록
+    <img src="./readme_images/member_new.gif">
+    
+    ### 재고관리기능 - 계정삭제
+    <img src="./readme_images/member_delete.gif">
+    
   
 ## <개발환경>
 - IDE : Eclipse
