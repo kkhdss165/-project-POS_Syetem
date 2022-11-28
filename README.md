@@ -71,6 +71,7 @@
    <img src="./readme_images/rolediff_stock.gif">
    
    - **계정직위에 따라 기능접근권한 차등**
+   - 재고수정/재고삭제 -> 관리자 기능
 
 
     ### 재고관리기능 - 재고목록(홈)
@@ -93,6 +94,7 @@
    <img src="./readme_images/rolediff_member.gif">
    
    - **계정직위에 따라 기능접근권한 차등**
+   - 계정생성/계정목록/계정삭제 -> 관리자 기능
    
    
     ### 계정관리기능 - 계정정보수정(홈)
@@ -111,15 +113,19 @@
     <img src="./readme_images/stat_main.gif">
    
     ### 통계기능 - 시간별통계
+     - 정상적인 판매기록에 대해서만 통계(환불기록은 제외)
+     - member테이블의 recode_datetime을 문자열로 변경후 시간에 따라 필요한 시간(문자열) 추출
     
      #### 연간
-     <img src="./readme_images/stat_year.jpg">
+     <img src="./readme_images/state_year.jpg">
      
      #### 월간
      <img src="./readme_images/stat_month.jpg">
      
      #### 주간
      <img src="./readme_images/stat_week.jpg">
+     
+     - LocalDateTime.plusWeeks 사용하여 구현
      
      #### 일간
      <img src="./readme_images/stat_day.jpg">
@@ -134,7 +140,8 @@
      <img src="./readme_images/stat_total.jpg">
     
 
-    
+  ## 어려웠던점
+  - 주간 통계 구현 >> LocalDateTime.plusWeeks 사용하여 구현
   
 ## <개발환경>
 - IDE : Eclipse
