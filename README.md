@@ -68,7 +68,7 @@
 
    
    ## 재고관리기능
-   <img src="./readme_images/rolldiff_stock.gif">
+   <img src="./readme_images/rolediff_stock.gif">
    - 계정직위에 따라 기능접근권한 차등
 
 
@@ -89,7 +89,7 @@
     
    
    ## 계정관리기능
-   <img src="./readme_images/rolldiff_member.gif">
+   <img src="./readme_images/rolediff_member.gif">
    - 계정직위에 따라 기능접근권한 차등
    
    
