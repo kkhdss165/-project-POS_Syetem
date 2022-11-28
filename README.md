@@ -51,92 +51,92 @@
     
     - POS시스템은 로그인 후 사용 가능
 
-   ## 1)판매기능
+   ## 1) 판매기능
    
-    ### 1)판매기능 - 재고목록(홈)
+    ### 1) 판매기능 - 재고목록(홈)
     <img src="./readme_images/sell_list.gif">
    
-    ### 1)판매기능 - 제품판매
+    ### 1) 판매기능 - 제품판매
     <img src="./readme_images/sell_sell.gif">
     
-    ### 1)판매기능 - 기록조회
+    ### 1) 판매기능 - 기록조회
     <img src="./readme_images/sell_recode.gif">   
     
-    ### 1)판매기능 - 제품환불
+    ### 1) 판매기능 - 제품환불
     <img src="./readme_images/sell_refund.gif">
     
 
    
-   ## 2)재고관리기능
+   ## 2) 재고관리기능
    <img src="./readme_images/rolediff_stock.gif">
    
    - **계정직위에 따라 기능접근권한 차등**
    - 재고수정/재고삭제 -> 관리자 기능
 
 
-    ### 2)재고관리기능 - 재고목록(홈)
+    ### 2) 재고관리기능 - 재고목록(홈)
     <img src="./readme_images/stock_list.gif">
    
-    ### 2)재고관리기능 - 신규입고
+    ### 2) 재고관리기능 - 신규입고
     <img src="./readme_images/stock_new.gif">
     
-    ### 2)재고관리기능 - 재입고
+    ### 2) 재고관리기능 - 재입고
     <img src="./readme_images/stock_restock.gif">
     
-    ### 2)재고관리기능 - 재고수정
+    ### 2) 재고관리기능 - 재고수정
     <img src="./readme_images/stock_edit.gif">
 
-    ### 2)재고관리기능 - 재고삭제
+    ### 2) 재고관리기능 - 재고삭제
     <img src="./readme_images/stock_delete.gif">
     
    
-   ## 3)계정관리기능
+   ## 3) 계정관리기능
    <img src="./readme_images/rolediff_member.gif">
    
    - **계정직위에 따라 기능접근권한 차등**
    - 계정생성/계정목록/계정삭제 -> 관리자 기능
    
    
-    ### 3)계정관리기능 - 계정정보수정(홈)
+    ### 3) 계정관리기능 - 계정정보수정(홈)
     <img src="./readme_images/member_edit.gif">
    
-    ### 3)계정관리기능 - 계정생성/계정목록
+    ### 3) 계정관리기능 - 계정생성/계정목록
     <img src="./readme_images/member_new.gif">
     
-    ### 3)재고관리기능 - 계정삭제
+    ### 3) 재고관리기능 - 계정삭제
     <img src="./readme_images/member_delete.gif">
     
     
-   ## 4)통계기능
+   ## 4) 통계기능
    
-    ### 4)통계기능 - 통계메인(홈)
+    ### 4) 통계기능 - 통계메인(홈)
     <img src="./readme_images/stat_main.gif">
    
-    ### 4)통계기능 - 시간별통계
+    ### 4) 통계기능 - 시간별통계
      - 정상적인 판매기록에 대해서만 통계(환불기록은 제외)
      - member테이블의 recode_datetime을 문자열로 변경 후 시간에 따라 필요한 시간(문자열) 추출하여 통계
     
-     #### 4)통계기능 - 시간별통계 - 연간
+     #### 4) 통계기능 - 시간별통계 - 연간
      <img src="./readme_images/state_year.jpg">
      
-     #### 4)통계기능 - 시간별통계 - 월간
+     #### 4) 통계기능 - 시간별통계 - 월간
      <img src="./readme_images/stat_month.jpg">
      
-     #### 4)통계기능 - 시간별통계 - 주간
+     #### 4) 통계기능 - 시간별통계 - 주간
      <img src="./readme_images/stat_week.jpg">
      
      - **LocalDateTime.plusWeeks 사용하여 구현**
      
-     #### 4)통계기능 - 시간별통계 - 일간
+     #### 4) 통계기능 - 시간별통계 - 일간
      <img src="./readme_images/stat_day.jpg">
     
     
-    ### 4)통계기능 - 수치적통계
+    ### 4) 통계기능 - 수치적통계
     
-     #### 4)통계기능 - 수치적통계 - 판매량순
+     #### 4) 통계기능 - 수치적통계 - 판매량순
      <img src="./readme_images/stat_quantity.jpg">
      
-     #### 4)통계기능 - 수치적통계 - 판매액순
+     #### 4) 통계기능 - 수치적통계 - 판매액순
      <img src="./readme_images/stat_total.jpg">
     
 
