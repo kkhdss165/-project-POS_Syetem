@@ -113,16 +113,16 @@
     ### 통계기능 - 시간별통계
     
      #### 연간
-     <img src="./readme_images/state_year.jpg">
+     <img src="./readme_images/stat_year.jpg">
      
      #### 월간
-     <img src="./readme_images/state_month.jpg">
+     <img src="./readme_images/stat_month.jpg">
      
      #### 주간
-     <img src="./readme_images/state_week.jpg">
+     <img src="./readme_images/stat_week.jpg">
      
      #### 일간
-     <img src="./readme_images/state_day.jpg">
+     <img src="./readme_images/stat_day.jpg">
     
     
     ### 통계기능 - 수치적통계
