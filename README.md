@@ -9,18 +9,22 @@
 
   ## 객체
     - 시스템의 CRUD를 위한 객체 (데이터베이스 테이블과 그에 매칭되는 자바 클래스)
+    
     ### Member
-      <img src="./readme_images/table_member.png">
+    
+     <img src="./readme_images/table_member.png">
       
-      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
+     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Member.java">Member.java</a>에 매칭)
     ### Product
-      <img src="./readme_images/table_product.png">
+    
+     <img src="./readme_images/table_product.png">
       
-      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
+     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Product.java">Product.java</a>에 매칭)
     ### Recode
-      <img src="./readme_images/table_recode.png">
+    
+     <img src="./readme_images/table_recode.png">
       
-      (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Recode.java">Recode.java</a>에 매칭)
+     (<a href = "https://github.com/kkhdss165/-project-POS_Syetem/blob/main/src/main/java/object/Recode.java">Recode.java</a>에 매칭)
   
   ## 기능
   
